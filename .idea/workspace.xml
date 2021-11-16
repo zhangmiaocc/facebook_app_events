@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a9dd2bb-a87a-4f68-be67-0003c4c0dee4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1yCmn2oemmH41qtOyfDmEkrSTVM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../../../SDK/android-sdk-macosx" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/example/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a9dd2bb-a87a-4f68-be67-0003c4c0dee4" name="Default Changelist" comment="" />
+      <created>1631764107496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631764107496</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1761" height="352" key="GridCell.Tab.0.bottom" timestamp="1631773624818">
+      <screen x="1440" y="-517" width="2560" height="1417" />
+    </state>
+    <state width="1761" height="352" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-517.2560.1417@1440.-517.2560.1417" timestamp="1631773624818" />
+    <state width="1761" height="352" key="GridCell.Tab.0.center" timestamp="1631773624817">
+      <screen x="1440" y="-517" width="2560" height="1417" />
+    </state>
+    <state width="1761" height="352" key="GridCell.Tab.0.center/0.23.1440.877/1440.-517.2560.1417@1440.-517.2560.1417" timestamp="1631773624817" />
+    <state width="1761" height="352" key="GridCell.Tab.0.left" timestamp="1631773624816">
+      <screen x="1440" y="-517" width="2560" height="1417" />
+    </state>
+    <state width="1761" height="352" key="GridCell.Tab.0.left/0.23.1440.877/1440.-517.2560.1417@1440.-517.2560.1417" timestamp="1631773624816" />
+    <state width="1761" height="352" key="GridCell.Tab.0.right" timestamp="1631773624817">
+      <screen x="1440" y="-517" width="2560" height="1417" />
+    </state>
+    <state width="1761" height="352" key="GridCell.Tab.0.right/0.23.1440.877/1440.-517.2560.1417@1440.-517.2560.1417" timestamp="1631773624817" />
+    <state x="2187" y="-262" key="RollbackChangesDialog" timestamp="1631773622962">
+      <screen x="1440" y="-517" width="2560" height="1417" />
+    </state>
+    <state x="2187" y="-262" key="RollbackChangesDialog/0.23.1440.877/1440.-517.2560.1417@1440.-517.2560.1417" timestamp="1631773622962" />
+    <state x="2131" y="-306" key="SettingsEditor" timestamp="1631772674249">
+      <screen x="1440" y="-517" width="2560" height="1417" />
+    </state>
+    <state x="2131" y="-306" key="SettingsEditor/0.23.1440.877/1440.-517.2560.1417@1440.-517.2560.1417" timestamp="1631772674249" />
+  </component>
+</project>
